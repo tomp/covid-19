@@ -1,0 +1,6 @@
+*~
+*.swp
+*.pyc
+
+# don't commit the actual notebooks, just the text (.py) versions
+*.ipynb
