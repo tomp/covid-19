@@ -26,13 +26,15 @@ Sorry for this extra step - I'm still trying to settle on the best way to
 share Jupyter notebooks via Github, and this is an experiment for me.
 
 ### Usage
-1. To use these notebooks you need to have the data repo checked out.  You can do that with the command,
+1. To use these notebooks you need to have the data repo checked out.  You
+can do that with the command,
 
     git clone https://github.com/CSSEGISandData/COVID-19.git
 
-2. Each of the notebooks requires you to specify the location of the repo as the "repo_dir",
-in the second cell.
+2. Each of the notebooks requires you to specify the location of the repo,
+where you checked it out, near the beginning of the notebook.
 
-Once these things are done, you can execute the notebooks and look at the data in different ways.
+Once these things are done, you can execute the notebooks and look at the
+data in different ways.
 
 
